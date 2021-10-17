@@ -2,6 +2,8 @@
 #You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
 # ##Credits - [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs)
 
+# Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/Sinan-m-116/DATE_TIME_USERBOT-TeLeTiPs/blob/main/LICENSE
+
 
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
