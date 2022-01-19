@@ -33,7 +33,7 @@ async def main_teletips():
                 TimeZone_teletips = datetime.datetime.now(pytz.timezone(f"{Time_Zone}"))
                 Time_teletips = TimeZone_teletips.strftime("SINAN-M")
                 Date_teletips = TimeZone_teletips.strftime("%b-%d") 
-                Image_teletips = Image.open("image.jpg")
+                Image_teletips = Image.open("https://te.legra.ph/file/1636e94f589eac3bd0147.jpg","https://te.legra.ph/file/f3d8dd3aabafb1735f66c.jpg")
                 Image_font_teletips = ImageFont.truetype("ds-digit.ttf", 360)
                 Image_text_teletips = f"{Time_teletips}"
                 Image_edit_teletips = ImageDraw.Draw(Image_teletips)
