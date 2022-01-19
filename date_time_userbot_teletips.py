@@ -9,7 +9,6 @@ from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
 from lists_teletips.quotes_teletips import *
 from lists_teletips.emojis_teletips import *
-from lists_teletips.bio_teletips import *
 from PIL import Image, ImageDraw, ImageFont
 import datetime
 import pytz
@@ -31,7 +30,6 @@ async def main_teletips():
             if Date_Time_Userbot_teletips.is_connected:
                 Quotes_teletips = random.choice(quotes_teletips)
                 Emojis_teletips = random.choice(emojis_teletips)
-                Biose_teletips  = random.choice(bio_teletips)
                 TimeZone_teletips = datetime.datetime.now(pytz.timezone(f"{Time_Zone}"))
                 Time_teletips = TimeZone_teletips.strftime("%I:%M %p")
                 Date_teletips = TimeZone_teletips.strftime("%b %d") 
