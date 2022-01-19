@@ -1,1 +1,16 @@
-emojis_teletips = ["💯", "🔅", "🔆", "〽️", "💬", "💭", "🗯", "🌻", "⚡️", "💫", "🌟", "🍃"]
+emojis_teletips = ["حب الرسول 🤍",
+"Njan✋uyir😇",
+"الحمدلله",
+"😜Much attitude..🛵trvl+phtgrphy lvr...❣ ️📷 single ✌️😜 only single😜",
+"Software 👨‍💻 & Sound 🎼 Engineering, Graphic Designing, photography 😍😘.",
+"Expect nothing 💪 you 💪will be never disappoint😓",
+"ꜱᴍɪʟᴇ ☺️ ɪꜱ ᴄʜᴀʀɪᴛy. DsGn lover",
+"listening",
+"BECOME A MAN ‼️⚠️⚠️",
+"നോക്കണ്ട ഉണ്ണി ഇതു ഞാനല്ല"
+"Never give up,❤️ Always fix a goal in life..🥰",
+"IF U WANT TO BE STRONG.. LEARN HOW TO FIGHT ALONE 🔥🔥...",
+"Hopes are your way",
+"Njan س Alle 🏴‍☠️😏",
+"😈𝙲𝙰𝙻𝙻 𝙼𝙴 𝙱𝙾𝚂𝚂😈",
+"Sugalle"]
